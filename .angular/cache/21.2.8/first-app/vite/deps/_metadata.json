@@ -1,0 +1,31 @@
+{
+  "hash": "aa5d2cf4",
+  "configHash": "9ba4c5fb",
+  "lockfileHash": "f2891970",
+  "browserHash": "9395142a",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "ca4e568e",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "2550c4ca",
+      "needsInterop": false
+    },
+    "zone.js": {
+      "src": "../../../../../../node_modules/zone.js/fesm2015/zone.js",
+      "file": "zone__js.js",
+      "fileHash": "1607ee7b",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-ALLCN33W": {
+      "file": "chunk-ALLCN33W.js"
+    }
+  }
+}
